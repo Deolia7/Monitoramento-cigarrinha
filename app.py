@@ -7,7 +7,7 @@ from utils.recomendacoes import gerar_recomendacoes
 from utils.graficos import plotar_evolucao, plotar_previsao, plotar_comparativo
 
 st.set_page_config(page_title="Monitoramento da Cigarrinha-do-milho", layout="wide")
-st.title("🦟 Monitoramento da Cigarrinha-do-milho")
+st.title("🪳 Monitoramento da Cigarrinha-do-milho")
 
 # Estados da aplicação
 if "dados" not in st.session_state:
