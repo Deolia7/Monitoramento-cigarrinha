@@ -4,5 +4,4 @@ matplotlib
 numpy
 pandas
 requests
-fpdf
 fpdf==1.7.2
